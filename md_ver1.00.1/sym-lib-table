@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name md_ver1.00.0-rescue)(type Legacy)(uri ${KIPRJMOD}/md_ver1.00.0-rescue.lib)(options "")(descr ""))
+  (lib (name md_ver1.00.1-rescue)(type Legacy)(uri ${KIPRJMOD}/md_ver1.00.1-rescue.lib)(options "")(descr ""))
+)
